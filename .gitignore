@@ -1,0 +1,9 @@
+node_modules/
+compiled*/
+input/
+output/
+.DS_Store
+docs/
+.eslintrc.json
+emoji.json
+yarn.lock
