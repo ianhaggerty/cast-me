@@ -91,7 +91,7 @@ These links formed some of my initial education into `ffmpeg`. `cast-me` now del
 
 MIT License
 
-Copyright (c) [2021] [Ian Haggerty]
+Copyright (c) 2021 Ian Haggerty
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
